@@ -5,7 +5,7 @@ Use at your own risk.
 
 To run 
  
- chmod +x ~/path/to/script/patch.sh
+  chmod +x ~/path/to/script/patch.sh
  ./patch.sh
 
 
